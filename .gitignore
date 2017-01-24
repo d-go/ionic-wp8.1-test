@@ -240,3 +240,21 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/ionic-typescript-tabs1/www/lib
+/ionic-typescript-tabs1/platforms/android
+/ionic-typescript-tabs1/platforms/windows
+/ionic-typescript-tabs1/platforms/Windows Phone (Universal)/assets/www
+/ionic-typescript-tabs1/platforms/Windows-AnyCPU/assets/www/js
+/ionic-typescript-tabs1/platforms/wp8
+/ionic-typescript-tabs1/plugins/cordova-plugin-compat
+/ionic-typescript-tabs1/plugins/cordova-plugin-console
+/ionic-typescript-tabs1/plugins/cordova-plugin-device
+/ionic-typescript-tabs1/plugins/cordova-plugin-geolocation
+/ionic-typescript-tabs1/plugins/cordova-plugin-map
+/ionic-typescript-tabs1/plugins/cordova-plugin-splashscreen
+/ionic-typescript-tabs1/plugins/cordova-plugin-statusbar
+/ionic-typescript-tabs1/plugins/cordova-plugin-whitelist
+/ionic-typescript-tabs1/plugins/ionic-plugin-keyboard
+/ionic-typescript-tabs1/resources/android
+/ionic-typescript-tabs1/resources/ios
+/ionic-typescript-tabs1/resources/windows
